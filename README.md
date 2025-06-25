@@ -22,8 +22,8 @@
 ---
 
 ### 🌐 Connect with Me
-- 🔗 [LinkedIn](https://linkedin.com/in/deeptidhanwate)
 - 📫 Email: dhanwatedeepti2@gmail.com
+- 🔗 [LinkedIn](https://linkedin.com/in/deeptidhanwate)
 - 🌍 [GitHub](https://github.com/dhanwatedeepti)
 
 ---
