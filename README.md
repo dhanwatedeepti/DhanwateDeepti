@@ -14,18 +14,10 @@
 
 ---
 
-### 💼 Projects
-- 🔗 [Weather Forecast App](https://github.com/deeptidhanwate/your-weather-repo) – Flask + Weather API  
-- 🔗 [Volunteer Scoreboard Website](https://github.com/deeptidhanwate/your-volunteer-repo) – HTML + Tailwind CSS  
-- 🛠️ More coming soon...
-
----
-
 ### 🌐 Connect with Me
 - 📫 Email: dhanwatedeepti2@gmail.com
 - 🔗 [LinkedIn](https://linkedin.com/in/deeptidhanwate)
-- 🌍 [GitHub](https://github.com/dhanwatedeepti)
-
+- 
 ---
 
 ### ✨ Fun Fact:
