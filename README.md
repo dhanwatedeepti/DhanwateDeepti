@@ -1,16 +1,32 @@
-## Hi there 👋
+## 👋 Hi there, I'm Deepti Dhanwate!
 
-<!--
-**dhanwatedeepti/DhanwateDeepti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (Cybersecurity) student | 💻 Python Developer | 🎨 Frontend Enthusiast  
+🔐 Passionate about building secure, user-friendly web experiences  
+🌱 Currently learning: Web Development, Flask, and Cybersecurity tools
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Languages:** HTML, CSS, JavaScript, Python  
+- **Frontend:** Tailwind CSS, Bootstrap, Responsive Design  
+- **Backend:** Flask (Python), API Integration  
+- **Tools:** Git, GitHub, VS Code, Postman, Canva  
+
+---
+
+### 💼 Projects
+- 🔗 [Weather Forecast App](https://github.com/deeptidhanwate/your-weather-repo) – Flask + Weather API  
+- 🔗 [Volunteer Scoreboard Website](https://github.com/deeptidhanwate/your-volunteer-repo) – HTML + Tailwind CSS  
+- 🛠️ More coming soon...
+
+---
+
+### 🌐 Connect with Me
+- 🔗 [LinkedIn](https://linkedin.com/in/deeptidhanwate)
+- 📫 Email: dhanwatedeepti2@gmail.com
+- 🌍 [GitHub](https://github.com/dhanwatedeepti)
+
+---
+
+### ✨ Fun Fact:
+I believe in learning by doing — whether it's coding a weather app or leading a student community initiative! 🚀
