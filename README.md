@@ -17,7 +17,6 @@
 ### 🌐 Connect with Me
 - 📫 Email: dhanwatedeepti2@gmail.com
 - 🔗 [LinkedIn](https://linkedin.com/in/deeptidhanwate)
-- 
 ---
 
 ### ✨ Fun Fact:
