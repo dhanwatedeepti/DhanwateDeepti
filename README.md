@@ -10,7 +10,7 @@
 - **Languages:** HTML, CSS, JavaScript, Python  
 - **Frontend:** Tailwind CSS, Bootstrap, Responsive Design  
 - **Backend:** Flask (Python), API Integration  
-- **Tools:** Git, GitHub, VS Code, Postman, Canva  
+- **Tools:** Git, GitHub, VS Code  
 
 ---
 
